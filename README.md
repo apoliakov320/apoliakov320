@@ -14,7 +14,7 @@
 #### 🚀 Мои проекты:
 *   **[LingoVibe - Лендинг для онлайн-школы](https://github.com/getabove-studio/language-school-landing)** 
     *   *Адаптивный сайт с анимациями, кастомным слайдером и модальными окнами. Технологии: HTML, Tailwind CSS, Vanilla JS.*
-    *   🌐 **[Посмотреть живой сайт](https://lingovibeschool.netlify.app/)**
+    *   🌐 **[Посмотреть живой сайт](https://lingovibe-demo.netlify.app/)**
 
 #### 📫 Как со мной связаться:
 *   Telegram: @deathiscure
