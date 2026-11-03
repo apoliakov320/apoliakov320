@@ -1,16 +1,24 @@
-## Hi there 👋
+### Привет! Я начинающий Frontend-разработчик 👋
 
-<!--
-**apoliakov320/apoliakov320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Специализируюсь на создании современных, адаптивных и быстрых интерфейсов. Уверенно работаю с HTML, CSS (Tailwind) и JavaScript. Использую современные AI-инструменты для ускорения разработки и написания чистого кода.
 
-Here are some ideas to get you started:
+#### 💻 Мой стек:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Мои проекты:
+*   **[LingoVibe - Лендинг для онлайн-школы](https://github.com/getabove-studio/language-school-landing)** 
+    *   *Адаптивный сайт с анимациями, кастомным слайдером и модальными окнами. Технологии: HTML, Tailwind CSS, Vanilla JS.*
+    *   🌐 **[Посмотреть живой сайт](https://lingovibeschool.netlify.app/)**
+
+#### 📫 Как со мной связаться:
+*   Telegram: @deathiscure
+*   Email: a.poliakov320@gmail.com
+
+---
+![Profile views](https://komarev.com/ghpvc/?username=apoliakov320&color=blue)
