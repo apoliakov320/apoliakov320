@@ -1,4 +1,4 @@
-### Привет! Я начинающий Frontend-разработчик 👋
+### Привет! Я Frontend-разработчик, создаю быстрые и удобные интерфейсы 👋
 
 Специализируюсь на создании современных, адаптивных и быстрых интерфейсов. Уверенно работаю с HTML, CSS (Tailwind) и JavaScript. Использую современные AI-инструменты для ускорения разработки и написания чистого кода.
 
@@ -13,8 +13,16 @@
 
 #### 🚀 Мои проекты:
 *   **[LingoVibe - Лендинг для онлайн-школы](https://github.com/getabove-studio/language-school-landing)** 
-    *   *Адаптивный сайт с анимациями, кастомным слайдером и модальными окнами. Технологии: HTML, Tailwind CSS, Vanilla JS.*
-    *   🌐 **[Посмотреть живой сайт](https://lingovibe-demo.netlify.app/)**
+   *   *Адаптивный сайт с анимациями, кастомным слайдером и модальными окнами.*
+    *   *Особенности: Интеграция формы заявки с Telegram-ботом через Netlify Functions.*
+    *   *Технологии: HTML, Tailwind CSS, Vanilla JS, Netlify Functions (Node.js).*
+    *   🌐 **[Посмотреть живой сайт](https://lingovibe-demo.duckdns.org/)**
+       
+*   **[Basilico - Сайт ресторана Fine Dining](https://github.com/getabove-studio/restaurant-demo-landing)** 
+    *   *Премиальный лендинг с интерактивным меню (табы), плавными анимациями при скролле и строгой валидацией формы бронирования.*
+    *   *Особенности: Отправка заявок напрямую в Telegram через Serverless-функции (Netlify Functions), настройка OpenGraph для соцсетей и Favicon.*
+    *   *Технологии: HTML, Tailwind CSS, Vanilla JS, Netlify Functions (Node.js).*
+    *   🌐 **[Посмотреть живой сайт](https://basilico-demo.duckdns.org/)**
 
 #### 📫 Как со мной связаться:
 *   Telegram: @deathiscure
