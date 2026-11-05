@@ -15,6 +15,7 @@
 
 - **[LingoVibe - Лендинг для онлайн-школы](https://github.com/getabove-studio/language-school-landing)**
     - *Адаптивный сайт с анимациями, кастомным слайдером и модальными окнами.*
+    - *Особенности: Отправка заявок, настройка OpenGraph для соцсетей и Favicon.*
     - *Технологии: HTML, Tailwind CSS, Vanilla JS.*
     - 🌐 **[Посмотреть живой сайт](https://lingovibe-demo.duckdns.org/)**
  ---
