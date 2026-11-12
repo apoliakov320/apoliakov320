@@ -1,6 +1,6 @@
-### Привет! Я IT-инженер и разработчик (Infrastructure, Security & Web) 👋
+### Привет! Я Fullstack-разработчик и IT-инженер 👋
 
-Занимаюсь системным администрированием, сетевой инфраструктурой и информационной безопасностью, а также разрабатываю веб-приложения (Frontend & Backend). Люблю разбираться в том, как системы работают «под капотом» — от настройки Linux-серверов и анализа трафика до создания современных интерфейсов и автоматизации на Python.
+Разрабатываю веб-приложения (Frontend & Backend), настраиваю серверную инфраструктуру и уделяю большое внимание безопасности. Люблю разбираться в том, как системы работают «под капотом» - от настройки Linux-серверов и анализа трафика до создания современных интерфейсов и интеграции с нейросетями.
 
 ---
 
@@ -10,7 +10,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Networking](https://img.shields.io/badge/TCP%2FIP_%7C_DNS_%7C_VPN-2B5B84?style=for-the-badge)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **🔐 Информационная безопасность (InfoSec & Forensics):**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -45,7 +44,7 @@
     - *Технологии: Vite, Vanilla JS, Tailwind, Handlebars, Cloudflare Pages & Functions, Groq API.*
     - *Ключевые фичи: защищенный бэкенд (скрытие API-ключей), приватность данных (sessionStorage), A11y (focus trap), отказоустойчивость (скелетоны, fallback-кнопки).*
     - 🌐 **[Посмотреть живой сайт](https://inastralium.pages.dev/)**
-       
+
 ---
 
 - **[Basilico - Лендинг для ресторана Fine Dining](https://github.com/apoliakov320/basilico)** 
@@ -54,7 +53,7 @@
     - *Ключевые фичи: безопасный бэкенд для отправки заявок в Telegram (скрытие токенов), строгая валидация формы (дата, время, телефон), плавные анимации появления (IntersectionObserver), скрытие плавающей кнопки при скролле, Mobile-first дизайн.*
     - 🌐 **[Посмотреть живой сайт](https://basilico.pages.dev/)**
 
-  ---
+---
 
 #### 📫 Как со мной связаться:
 *   Telegram: @deathiscure
