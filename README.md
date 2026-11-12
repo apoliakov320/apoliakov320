@@ -45,8 +45,16 @@
     - *Технологии: Vite, Vanilla JS, Tailwind, Handlebars, Cloudflare Pages & Functions, Groq API.*
     - *Ключевые фичи: защищенный бэкенд (скрытие API-ключей), приватность данных (sessionStorage), A11y (focus trap), отказоустойчивость (скелетоны, fallback-кнопки).*
     - 🌐 **[Посмотреть живой сайт](https://inastralium.pages.dev/)**
-  
+       
 ---
+
+- **[Basilico - Лендинг для ресторана Fine Dining](https://github.com/apoliakov320/basilico)** 
+    - *Демо-кейс: премиальный сайт для итальянского ресторана с интерактивным меню и формой бронирования.*
+    - *Технологии: Vite, Vanilla JS, Tailwind, Handlebars, Cloudflare Pages & Functions, Telegram Bot API.*
+    - *Ключевые фичи: безопасный бэкенд для отправки заявок в Telegram (скрытие токенов), строгая валидация формы (дата, время, телефон), плавные анимации появления (IntersectionObserver), скрытие плавающей кнопки при скролле, Mobile-first дизайн.*
+    - 🌐 **[Посмотреть живой сайт](https://basilico.pages.dev/)**
+
+  ---
 
 #### 📫 Как со мной связаться:
 *   Telegram: @deathiscure
