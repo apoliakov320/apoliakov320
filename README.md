@@ -1,26 +1,40 @@
-### Привет! Я Frontend-разработчик, создаю быстрые и удобные интерфейсы 👋
+### Привет! Я IT-инженер и разработчик (Infrastructure, Security & Web) 👋
 
-Специализируюсь на создании современных, адаптивных и быстрых интерфейсов. Уверенно работаю с HTML, CSS (Tailwind) и JavaScript. Использую современные AI-инструменты для ускорения разработки и написания чистого кода.
+Занимаюсь системным администрированием, сетевой инфраструктурой и информационной безопасностью, а также разрабатываю веб-приложения (Frontend & Backend). Люблю разбираться в том, как системы работают «под капотом» — от настройки Linux-серверов и анализа трафика до создания современных интерфейсов и автоматизации на Python.
 
-#### 💻 Мой стек:
+---
 
-**Frontend & Стили:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🛠 Мой технический стек:
 
-**Сборка & Деплой:**
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+**🖥 Системное администрирование & Сети:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/TCP%2FIP_%7C_DNS_%7C_VPN-2B5B84?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**🔐 Информационная безопасность (InfoSec & Forensics):**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+**⚙️ Backend, AI & Базы данных:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+
+**🎨 Frontend & Деплой:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-**AI & Backend:**
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Инструменты:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**🧰 Инструменты:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ---
 
@@ -39,5 +53,11 @@
 *   Email: a.poliakov320@gmail.com
 
 ---
+### 📈 Статистика GitHub:
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=apoliakov320&theme=radical" alt="GitHub Streak" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=apoliakov320&color=blue)
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fapoliakov320&label=PROFILE%20VIEWS&labelColor=%23151515&countColor=%23f81ce5&style=for-the-badge" alt="Profile Views" />
+</p>
