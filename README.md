@@ -57,7 +57,7 @@
 ---
 
 #### 📫 Как со мной связаться:
-*   Telegram: @deathiscure
+*   Telegram: @poliakov_web
 *   Email: a.poliakov320@gmail.com
 
 ---
