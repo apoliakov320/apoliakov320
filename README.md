@@ -24,14 +24,14 @@
 
 ### 🧪 Практика в пентесте
 
-**PointPulse** — тестирование веб-приложений и API методом black-box:
+**PointPulse** - тестирование веб-приложений и API методом black-box:
 - Подтвердил **Server-Side Template Injection** с эскалацией до **RCE**
 - Нашёл уязвимость конфигурации OAuth-провайдера: открытая **Dynamic Client
   Registration**, небезопасный **PKCE method=plain**, повышение привилегий
   через смену scope
 - Оформляю отчёты по black-box методологии с указанием **CWE** и **РоС**
 
-**TryHackMe** — [профиль](https://tryhackme.com/p/apoliakov320)
+**TryHackMe** - [профиль](https://tryhackme.com/p/apoliakov320)
 
 ---
 
